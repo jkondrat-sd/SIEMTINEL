@@ -1,5 +1,5 @@
 # Use the official Bitnami Kafka image as the base image
-FROM bitnami/kafka:latest
+FROM soldevelo/kafka:latest
 
 # Expose the Kafka port
 EXPOSE 9092
